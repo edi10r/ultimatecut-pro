@@ -64,6 +64,13 @@
    `npm run dev`
 
 
+## 🤝 Contributing & Feedback
+
+Contributions, issues, and feature requests are welcome!
+
+* 🐛 **Report a Bug:** Open an issue on the [Issues tab](https://github.com/edi10r/Ultimate-Cut-Pro/issues).
+* 💡 **Feature Requests:** Feel free to share your ideas for upcoming releases.
+* ⭐ **Support:** If you like this project, please consider giving it a **Star** on GitHub!
 
 ---
 
