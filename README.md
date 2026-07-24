@@ -8,6 +8,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
+## ⚡ Feature Comparison
+
+| Feature | Free Tier | Pro Tier |
+| :--- | :---: | :---: |
+| **Max Export Quality** | 1080p | 4K / 8K HDR |
+| **Watermark Removal** | ❌ | ✅ |
+| **Multi-Track Timeline** | Unlimited | Unlimited |
+| **AI Director Tools** | Basic | Advanced |
+| **Cloud Storage** | Local Only | Unlimited Sync |
+
+
+
 <div align="center">
   <h3>📸 UltimateCut Pro Dashboard</h3>
   <img src="https://github.com/user-attachments/assets/f594a46a-c8ce-43a7-aaaa-4f478c949577" alt="UltimateCut Pro Dashboard" width="100%" />
