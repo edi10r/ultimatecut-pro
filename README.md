@@ -8,6 +8,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
+<div align="center">
+  <img src="PASTE_YOUR_GITHUB_IMAGE_URL_HERE" alt="UltimateCut Pro Dashboard" width="100%" />
+</div>
+
 ## ✨ Key Features
 
 * ✂️ **Multi-Track Editing:** Intuitive blank canvas timeline built for total layout control.
