@@ -1,0 +1,6 @@
+{
+  "name": "UltimateCut Pro",
+  "description": "Next-generation video editing suite with multi-track magnetic timeline, AI Director, voice cloning, chroma key, color grading, smart cutout, and real-time collaboration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
