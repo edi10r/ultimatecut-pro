@@ -39,3 +39,26 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+
+---
+
+## 📺 YouTube Channel & Video Guides
+
+Subscribe to my YouTube channel for feature walk-throughs, video editing tutorials, and development updates for **UltimateCut Pro**!
+
+<p align="left">
+  <a href="https://www.youtube.com/@unknown-3amx" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://www.youtube.com/@unknown-3amx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b331d652-d8c5-41f0-8f1d-0a492dedb519" alt="YouTube Channel Preview" width="100%" />
+  </a>
+  <p><i>Click the image above to visit the channel and watch full video guides!</i></p>
+</div>
+
+---
