@@ -9,8 +9,10 @@
 
 
 <div align="center">
-  <img src="PASTE_YOUR_GITHUB_IMAGE_URL_HERE" alt="UltimateCut Pro Dashboard" width="100%" />
+  <h3>📸 UltimateCut Pro Dashboard</h3>
+  <img src="https://github.com/user-attachments/assets/f594a46a-c8ce-43a7-aaaa-4f478c949577" alt="UltimateCut Pro Dashboard" width="100%" />
 </div>
+
 
 ## ✨ Key Features
 
