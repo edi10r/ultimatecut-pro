@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -6,6 +7,15 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+
+## ✨ Key Features
+
+* ✂️ **Multi-Track Editing:** Intuitive blank canvas timeline built for total layout control.
+* ⚡ **GPU-Accelerated Previews:** Smooth, lag-free playback powered by off-thread decoding.
+* 🤖 **AI Studio Tools:** Script-to-Video generation, Voice Cloning, and Inpainting built-in.
+* 💎 **Free & Pro Tiers:** Flexible export options, watermark toggles, and high-res rendering.
+
+* 
 </div>
 ## Run Locally
 
