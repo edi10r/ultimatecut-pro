@@ -15,6 +15,12 @@
 * 🤖 **AI Studio Tools:** Script-to-Video generation, Voice Cloning, and Inpainting built-in.
 * 💎 **Free & Pro Tiers:** Flexible export options, watermark toggles, and high-res rendering.
 
+* ## 🛠️ Built With
+
+* **Frontend Framework:** TypeScript + Vite
+* **Runtime:** Node.js
+* **AI Engine:** Google Gemini API
+
 * 
 </div>
 ## Run Locally
