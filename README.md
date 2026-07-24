@@ -24,6 +24,19 @@
 | **Cloud Storage** | Local Only | Unlimited Sync |
 
 
+
+## ⌨️ Keyboard Shortcuts
+
+| Action | Shortcut |
+| :--- | :--- |
+| **Play / Pause** | `Spacebar` |
+| **Split Clip at Playhead** | `S` or `Ctrl + K` |
+| **Delete Selected Clip** | `Delete` / `Backspace` |
+| **Undo / Redo** | `Ctrl + Z` / `Ctrl + Y` |
+| **Zoom In / Out Timeline** | `Ctrl + Wheel` |
+
+
+
 ## ✨ Key Features
 
 * ✂️ **Multi-Track Editing:** Intuitive blank canvas timeline built for total layout control.
